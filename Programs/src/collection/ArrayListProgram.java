@@ -9,7 +9,7 @@ public class ArrayListProgram {
 	public static void main(String[] args)  {
 		// TODO Auto-generated method stub
 		ArrayList<String> ob = new ArrayList<String>();
-		ob.add("Anu  ");
+		ob.add("Anu");
 	    ob.add("Aruu");
 	  ob.forEach((x)-> System.out.println(x.trim())); //iterates all the elements
 	 
